@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact **I Think I Am Crazy**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshg&show_icons=true&locale=en&layout=compact" alt="vigneshg" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vigneshg&show_icons=true&locale=en" alt="vigneshg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshg&show_icons=true&locale=en" alt="vigneshg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshg&" alt="vigneshg" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshg&" alt="vigneshg" /></p>
