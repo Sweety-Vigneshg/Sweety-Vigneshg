@@ -15,4 +15,4 @@
 - ⚡ Fun fact **I Think I Am Crazy**
   
 <p>  </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshg&" alt="vigneshg" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshg&" alt="vigneshg" /></p>
