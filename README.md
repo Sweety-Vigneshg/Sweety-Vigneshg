@@ -13,7 +13,5 @@
 - 📫 How to reach me **vigneshg463@gmail.com**
 
 - ⚡ Fun fact **I Think I Am Crazy**
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vigneshg&show_icons=true&locale=en" alt="vigneshg" /></p>
-
+<p>  </p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshg&" alt="vigneshg" /></p>
