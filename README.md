@@ -2,15 +2,11 @@
 <h3 align="center">A Passionate Video Editor & Computer Science Enthusiast</h3>
 
 <p align="center">
-  <img src="" alt="coding" width="400">
+  <img src="https://github.com/Sweety-Vigneshg/Sweety-Vigneshg/blob/main/programming.gif" alt="coding" width="400">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vigneshg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="" alt="Learning" width="400">
 </p>
 
 - 🔭 I’m currently studying **Computer Science and Engineering**.
