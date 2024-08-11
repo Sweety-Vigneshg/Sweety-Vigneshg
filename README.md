@@ -9,12 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=vigneshg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently studying **Computer Science and Engineering**.
-- 🌱 I’m learning **Android Application Development**.
-- ⚡ My Portfolio : [vigneshg](https://vigneshgbe.neocities.org).
-- 📝 I regularly write articles on [vickysTFT](https://vickystft.blogspot.com).
-- 📫 How to reach me: **vigneshg463@gmail.com**.
-- ⚡ Fun fact: **I think I am crazy**.
+-<p align="center"> 🔭 I’m currently studying **Computer Science and Engineering**.</p>
+-<p align="center"> 🌱 I’m learning **Android Application Development**.</p>
+-<p align="center"> ⚡ My Portfolio : [vigneshg](https://vigneshgbe.neocities.org).</p>
+-<p align="center"> 📝 I regularly write articles on [vickysTFT](https://vickystft.blogspot.com).</p>
+-<p align="center"> 📫 How to reach me: **vigneshgbecse@gmail.com**.</p>
+<p align="center"> ⚡ Fun fact: **I think I am crazy**.</p>
 
 
   
