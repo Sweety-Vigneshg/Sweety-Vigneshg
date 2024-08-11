@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=vigneshg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center"> 🔭 I’m currently studying **Computer Science and Engineering**.</p>
+<p align="center"><span> 🔭 I’m currently studying **Computer Science and Engineering**.</span></p>
 <p align="center">   🌱 I’m learning **Android Application Development**.    </p>
 <p align="center">  ⚡ My Portfolio : [vigneshg](https://vigneshgbe.neocities.org).  </p>
 <p align="center">  📝 I regularly write articles on [vickysTFT](https://vickystft.blogspot.com). </p>
