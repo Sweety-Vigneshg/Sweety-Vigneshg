@@ -10,16 +10,16 @@
 </p>
 
 <p align="center">
-  🔭 I’m currently studying <strong>Computer Science and Engineering</strong>.
+  🔭 I’m currently studying <strong>Computer Science and Engineering</strong> 2025 passout.
 </p>
 <p align="center">
   🌱 I’m learning <strong>Android Application Development</strong>.
 </p>
 <p align="center">
-  ⚡ My Portfolio: <a href="https://vigneshgbe.neocities.org" target="_blank" rel="noopener noreferrer">vigneshg</a>.
+  ⚡ My Portfolio: <a href="https://vigneshgbe.neocities.org" target="_blank" rel="noopener noreferrer">Visit Here</a>.
 </p>
 <p align="center">
-  📝 I regularly write articles on <a href="https://vickystft.blogspot.com" target="_blank" rel="noopener noreferrer">vickysTFT</a>.
+  📝 I regularly write articles on <a href="https://vickystft.blogspot.com" target="_blank" rel="noopener noreferrer">My Blogspot</a>.
 </p>
 <p align="center">
   📫 How to reach me: <strong>vigneshgbecse@gmail.com</strong>.
