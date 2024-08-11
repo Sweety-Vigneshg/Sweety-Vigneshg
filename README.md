@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Video Editor & Computer Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/Sweety-Vigneshg/Sweety-Vigneshg/blob/main/programming.gif" alt="coding" width="400">
+  <img src="https://github.com/Sweety-Vigneshg/Sweety-Vigneshg/blob/main/online.gif" alt="coding" width="400">
 </p>
 
 <p align="center">
