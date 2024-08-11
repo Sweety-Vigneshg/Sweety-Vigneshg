@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://github.com/Sweety-Vigneshg/Sweety-Vigneshg/blob/main/online.gif" alt="coding" width="400">
 </p>
+<p align="center">
+  <img src="https://github.com/Sweety-Vigneshg/Sweety-Vigneshg/blob/main/programming.gif" alt="coding" width="400">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vigneshg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
