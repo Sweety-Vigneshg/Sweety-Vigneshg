@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Video Editor & Computer Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ozt9T8z0J8eKSHW/giphy.gif" alt="coding" width="400">
+  <img src="" alt="coding" width="400">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6fJ3aELH1Rg6PyK0/giphy.gif" alt="Learning" width="400">
+  <img src="" alt="Learning" width="400">
 </p>
 
 - 🔭 I’m currently studying **Computer Science and Engineering**.
@@ -19,8 +19,5 @@
 - 📫 How to reach me: **vigneshg463@gmail.com**.
 - ⚡ Fun fact: **I think I am crazy**.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsTm0Xl0ZZR2xV6/giphy.gif" alt="Profile GIF" width="400">
-</p>
 
   
