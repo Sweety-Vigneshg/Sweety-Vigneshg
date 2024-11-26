@@ -1,53 +1,67 @@
-# 👋 Hi there, I'm Vignesh G!
+# 👋 Hello, World! I'm **Vignesh G** 🚀
 
-## 🌟 Full Stack Developer | Software Engineer | CSE Student (2025)
-
-I'm passionate about software development, technology, and creative problem-solving. I specialize in **Full Stack Development**, **APIs**, and **Android Application Development**. Always eager to learn and collaborate on exciting projects!
-
----
-
-### 🚀 What I'm currently working on:
-- 💻 Developing **full-stack web applications** using **Java**, **Firebase**, and **HTML/CSS**.
-- 📱 Learning **Android App Development** to create intuitive mobile experiences.
-- 🔍 Exploring the world of **cloud technologies** and **APIs** for scalable solutions.
+🎓 **CSE Student | Full Stack Developer | Android Enthusiast**  
+💡 Passionate about technology, coding, and building impactful solutions.
 
 ---
 
-### 📈 Github Stats:
+### 🚀 **About Me**
 
-<p align="center">
-  <img src="https://github.com/Sweety-Vigneshg/Sweety-Vigneshg/blob/main/online.gif" alt="coding" width="400">
-</p>
+I'm a Computer Science student from **India**, always curious and exploring new tech. My journey revolves around **web development**, **mobile apps**, and **API integration**, with a sprinkle of creativity in everything I do.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vigneshg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-### 💬 Let's Connect:
-
-- 📫 **Email**: [vigneshgbecse@gmail.com](mailto:vigneshgbecse@gmail.com)
-- 🌐 **Portfolio**: [Visit Here](https://vigneshgbe.neocities.org)
-- 📝 **Blog**: [Read My Articles](https://vickystft.blogspot.com)
+🔧 **Tools I use daily:**
+- **Backend**: Java, Node.js, Firebase
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Mobile**: Android Studio, Kotlin
+- **Other**: Git, Postman, MongoDB, Firestore
 
 ---
 
-### 🔧 Technologies & Tools:
-- **Languages**: Java, JavaScript, HTML5, CSS3
-- **Backend**: Firebase, Node.js
-- **Frontend**: React, HTML/CSS
-- **Tools**: Git, Postman, Android Studio
-- **Databases**: Firestore, MongoDB
+### 🛠 **Current Projects** 
+- **Building a full-stack e-commerce platform** using **React** and **Firebase**.
+- **Creating an innovative Android app** for **task management** with **Kotlin**.
+- Exploring **API design** for efficient and scalable backend systems.
 
 ---
 
-### 🌱 Fun Fact:
-- **I think I'm a bit crazy, but in a good way!** 🤪
+### 🌱 **What am I Learning?**
+- Android App Development (Kotlin)
+- Cloud Computing (AWS, Firebase)
+- Advanced JavaScript (Node.js, Express)
 
 ---
 
-### 🚀 Open Source Contributions:
-Feel free to explore and contribute to my repositories! I’m always open to collaborating on exciting projects and learning new things.
+### 🌍 **Connect With Me!**
+
+- 📧 **Email**: [vigneshgbecse@gmail.com](mailto:vigneshgbecse@gmail.com)
+- 🌐 **Portfolio**: [vigneshgbe.neocities.org](https://vigneshgbe.neocities.org)
+- 📝 **Blog**: [My Tech Blog](https://vickystft.blogspot.com)
+- 📱 **LinkedIn**: [Let's Connect!](https://www.linkedin.com/in/vignesh-g-12345678)
 
 ---
+
+### 📊 **GitHub Stats & Achievements**
+
+![Vignesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshg&show_icons=true&count_private=true&theme=radical)
+
+---
+
+### 🧠 **Fun Fact**  
+I think I’m a little crazy in the best possible way! 😜 When I’m not coding, you can find me experimenting with new tech, playing around with my DIY electronics, or binge-watching tech documentaries!
+
+---
+
+### 🔗 **Projects & Open Source Contributions**  
+Feel free to explore my repositories. I love contributing to open-source and collaborating on cool projects. Let’s build something great together! 💻✨
+
+---
+
+### 📌 **Featured Projects**
+
+- 🛒 **E-Commerce Website**: [View Project](https://github.com/vigneshg/e-commerce-app)
+- 📱 **Task Manager App**: [View Project](https://github.com/vigneshg/task-manager)
+- 🌐 **API Integration Project**: [View Project](https://github.com/vigneshg/api-integration)
+  
+---
+
+Let's make some magic happen! 💥💻  
