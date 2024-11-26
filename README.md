@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm Vignesh G</h1>
-<h3 align="center">A Passionate Video Editor & Computer Science Enthusiast</h3>
+# 👋 Hi there, I'm Vignesh G!
+
+## 🌟 Full Stack Developer | Software Engineer | CSE Student (2025)
+
+I'm passionate about software development, technology, and creative problem-solving. I specialize in **Full Stack Development**, **APIs**, and **Android Application Development**. Always eager to learn and collaborate on exciting projects!
+
+---
+
+### 🚀 What I'm currently working on:
+- 💻 Developing **full-stack web applications** using **Java**, **Firebase**, and **HTML/CSS**.
+- 📱 Learning **Android App Development** to create intuitive mobile experiences.
+- 🔍 Exploring the world of **cloud technologies** and **APIs** for scalable solutions.
+
+---
+
+### 📈 Github Stats:
 
 <p align="center">
   <img src="https://github.com/Sweety-Vigneshg/Sweety-Vigneshg/blob/main/online.gif" alt="coding" width="400">
@@ -9,25 +23,31 @@
   <img src="https://komarev.com/ghpvc/?username=vigneshg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  🔭 I’m currently studying <strong>Computer Science and Engineering</strong> 2025 passout.
-</p>
-<p align="center">
-  🌱 I’m learning <strong>Android Application Development</strong>.
-</p>
-<p align="center">
-  ⚡ My Portfolio: <a href="https://vigneshgbe.neocities.org" target="_blank" rel="noopener noreferrer">Visit Here</a>.
-</p>
-<p align="center">
-  📝 I regularly write articles on <a href="https://vickystft.blogspot.com" target="_blank" rel="noopener noreferrer">My Blogspot</a>.
-</p>
-<p align="center">
-  📫 How to reach me: <strong>vigneshgbecse@gmail.com</strong>.
-</p>
-<p align="center">
-  ⚡ Fun fact: <strong>I think I am crazy</strong>.
-</p>
+---
 
+### 💬 Let's Connect:
 
+- 📫 **Email**: [vigneshgbecse@gmail.com](mailto:vigneshgbecse@gmail.com)
+- 🌐 **Portfolio**: [Visit Here](https://vigneshgbe.neocities.org)
+- 📝 **Blog**: [Read My Articles](https://vickystft.blogspot.com)
 
-  
+---
+
+### 🔧 Technologies & Tools:
+- **Languages**: Java, JavaScript, HTML5, CSS3
+- **Backend**: Firebase, Node.js
+- **Frontend**: React, HTML/CSS
+- **Tools**: Git, Postman, Android Studio
+- **Databases**: Firestore, MongoDB
+
+---
+
+### 🌱 Fun Fact:
+- **I think I'm a bit crazy, but in a good way!** 🤪
+
+---
+
+### 🚀 Open Source Contributions:
+Feel free to explore and contribute to my repositories! I’m always open to collaborating on exciting projects and learning new things.
+
+---
