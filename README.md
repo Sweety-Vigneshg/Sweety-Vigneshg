@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm **Vignesh G** 🚀
+# 👋 Hello, I'm **Vignesh G** 🚀
 
 🎓 **CSE Student | Full Stack Developer | Android Enthusiast**  
 💡 Passionate about technology, coding, and building impactful solutions.
@@ -40,11 +40,6 @@ I'm a Computer Science student from **India**, always curious and exploring new 
 
 ---
 
-### 📊 **GitHub Stats & Achievements**
-
-![Vignesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshg&show_icons=true&count_private=true&theme=radical)
-
----
 
 ### 🧠 **Fun Fact**  
 I think I’m a little crazy in the best possible way! 😜 When I’m not coding, you can find me experimenting with new tech, playing around with my DIY electronics, or binge-watching tech documentaries!
