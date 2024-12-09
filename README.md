@@ -35,7 +35,7 @@ I'm a Computer Science student from **India**, always curious and exploring new 
 
 - 📧 **Email**: [vigneshgbecse@gmail.com](mailto:vigneshgbecse@gmail.com)
 - 🌐 **Portfolio**: [vigneshgbe.neocities.org](https://vigneshgbe.neocities.org)
-- 📝 **Blog**: [My  Blog](https://vickystft.blogspot.com)
+- 📝 **Blog**: [My Tech Blog](https://vickystft.blogspot.com)
 - 📱 **LinkedIn**: [Let's Connect!](https://www.linkedin.com/in/vignesh-g-12345678)
 
 ---
