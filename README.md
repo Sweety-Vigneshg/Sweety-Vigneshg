@@ -40,17 +40,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweety-Vigneshg&layout=compact&theme=dark&hide_border=true" alt="vigneshg" />
 </p>
 
-### 🔝 Top Repositories
-
-<p align="center">
-  <a href="https://github.com/Sweety-Vigneshg/e-commerce-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweety-Vigneshg&repo=e-commerce-app&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Sweety-Vigneshg/task-manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweety-Vigneshg&repo=task-manager&theme=dark&hide_border=true" />
-  </a>
-</p>
-
 ### 📈 Activity Graph
 
 <p align="center">
@@ -60,12 +49,13 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sweety-Vigneshg&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="vigneshg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sweety-Vigneshg&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Sweety-Vigneshg" />
 </p>
 
 ### 🔗 Connect with me
 
 <p align="center">
+  <a href="https://www.youtube.com/@Graduate-Hands" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Graduate Hands" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/vigneshgbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh-g-12345678" height="30" width="40" /></a>
   <a href="https://vickystft.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="My Tech Blog" height="30" width="40" /></a>
 </p>
