@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vigneshg?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vigneshg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://github.com/Sweety-Vigneshg?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sweety-Vigneshg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://github.com/vigneshg?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vigneshg?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="https://github.com/Sweety-Vigneshg?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sweety-Vigneshg?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>
 
@@ -70,19 +70,19 @@
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/vignesh-g-12345678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh-g-12345678" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vigneshgbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh-g-12345678" height="30" width="40" /></a>
   <a href="https://vickystft.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="My Tech Blog" height="30" width="40" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vigneshg&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshg" />
+  <img src="https://komarev.com/ghpvc/?username=Sweety-Vigneshg&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshg" />
 </p>
 
 <h3 align="center">Support:</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/vigneshg">
+  <a href="https://www.buymeacoffee.com/Sweety-Vigneshg">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vigneshg" />
   </a>
 </p>
