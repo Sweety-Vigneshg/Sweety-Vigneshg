@@ -29,42 +29,42 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,javascript,react,nodejs,firebase,mongodb,git,androidstudio,html,css,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,firebase,mongodb,java,c,git,androidstudio" />
   </a>
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshg&theme=dark&hide_border=true" alt="vigneshg" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sweety-Vigneshg&theme=dark&hide_border=true" alt="vigneshg" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vigneshg&show_icons=true&theme=dark&hide_border=true&locale=en" alt="vigneshg"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshg&layout=compact&theme=dark&hide_border=true" alt="vigneshg" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sweety-Vigneshg&show_icons=true&theme=dark&hide_border=true&locale=en" alt="vigneshg"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweety-Vigneshg&layout=compact&theme=dark&hide_border=true" alt="vigneshg" />
 </p>
 
 ### 🔝 Top Repositories
 
 <p align="center">
   <a href="https://github.com/vigneshg/e-commerce-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshg&repo=e-commerce-app&theme=dark&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweety-Vigneshg&repo=e-commerce-app&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/vigneshg/task-manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshg&repo=task-manager&theme=dark&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweety-Vigneshg&repo=task-manager&theme=dark&hide_border=true" />
   </a>
 </p>
 
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshg&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sweety-Vigneshg&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vigneshg&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="vigneshg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sweety-Vigneshg&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="vigneshg" />
 </p>
 
 ### 🔗 Connect with me
