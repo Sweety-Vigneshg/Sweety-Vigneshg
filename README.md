@@ -36,10 +36,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sweety-Vigneshg&theme=dark&hide_border=true" alt="vigneshg" />
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sweety-Vigneshg&show_icons=true&theme=dark&hide_border=true&locale=en" alt="vigneshg"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweety-Vigneshg&layout=compact&theme=dark&hide_border=true" alt="vigneshg" />
 </p>
@@ -47,10 +43,10 @@
 ### 🔝 Top Repositories
 
 <p align="center">
-  <a href="https://github.com/vigneshg/e-commerce-app">
+  <a href="https://github.com/Sweety-Vigneshg/e-commerce-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweety-Vigneshg&repo=e-commerce-app&theme=dark&hide_border=true" />
   </a>
-  <a href="https://github.com/vigneshg/task-manager">
+  <a href="https://github.com/Sweety-Vigneshg/task-manager">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweety-Vigneshg&repo=task-manager&theme=dark&hide_border=true" />
   </a>
 </p>
